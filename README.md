@@ -1,6 +1,6 @@
 # cgranade 
 
-I am Chris Granade, a research software development engineer working in the Quantum Systems Group at Microsoft.
+I am Dr. Cassandra Granade, a research software development engineer working in the Quantum Systems Group at Microsoft.
 
 Check out my book with [@crazy4pi314](https://github.com/crazy4pi314), _Learn Quantum Computing with Python and Q#_ ([Amazon pre-order](https://bit.ly/buy-qsharp-book), [Manning Publications](https://bit.ly/qsharp-book)), coming in October 2020.
 
